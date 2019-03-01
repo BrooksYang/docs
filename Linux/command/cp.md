@@ -19,7 +19,7 @@ cp [options] source… directory
 ```
 
 ### 实例
-# 使用指令"cp"将当前目录"test/"下的所有文件复制到新目录"newtest"下，输入如下命令：
+使用指令"cp"将当前目录"test/"下的所有文件复制到新目录"newtest"下，输入如下命令：
 ```
 cp –r test/ newtest
 ```
